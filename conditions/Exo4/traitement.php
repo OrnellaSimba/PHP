@@ -4,7 +4,7 @@ Si l'âge est inférieur à 12 ans et que l'utilisateur répond "yes", retourne:
 Si l'âge est entre 12 et 18 ans et que l'utilisateur répond "yes", affiche "Hello Teenage boy!" ou "Hello Teenage girl!" selon son genre.
 Si l'âge est entre 18 et 115 ans et que l'utilisateur répond "yes", affiche "Hello Sir!" ou "Hello Lady!" selon son genre. - Si l'âge est supérieur à 115 ans et que l'utilisateur répond "yes", affiche "Wow! Still alive, old man?" ou "old lady?" selon son genre -->
 
-<a href="form.php"></a>
+
 
 <?php
 

@@ -1,6 +1,6 @@
 <?php
 
-$genre="H";
+$genre="F";
 
 /*if ($genre == "H") {
   $bonjour="Bonjour, Monsieur !";
